@@ -81,10 +81,6 @@ Make sure you have the following prerequisites installed:
 
 Contributions are welcome! If you find issues or have improvements, feel free to open a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - LLAMA-2 Model: [Link to LLAMA-2 Repository](https://github.com/Fiza-Faiz/LLAMA-2)
